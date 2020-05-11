@@ -46,13 +46,8 @@ for **maven**
 ```
 **[Get Starting]
 # Simple Usage
-choose one of Speedometers, gauges and add it to your `Layout.xml`, here we use **SpeedView**.<br>
+<br>
 ```xml
-
-<com.github.anastr.speedviewlib.SpeedView
-        android:id="@+id/speedView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
 
 ```
 
