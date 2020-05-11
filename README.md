@@ -12,12 +12,6 @@ Library Size just ~ 47 KB.
 [![Bintray](https://img.shields.io/bintray/v/anastr/maven/SpeedView.svg?color=green)](https://bintray.com/anastr/maven/SpeedView)
 [![Twitter](https://img.shields.io/badge/Twitter-@AnasAltairDent-blue.svg?style=flat)](http://twitter.com/AnasAltairDent)
 
- download demo on Google Play:\
- <a href='https://play.google.com/store/apps/details?id=com.github.anastr.speedviewapp&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img  width="25%" alt='SpeedView Demo on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
-
-> this library has rewritten with Kotlin in version 1.4.0 manually, which means it may have some issues.
-> if you have any problem please open an issue, and you can use old version 1.3.1 written in java.
-
 **Speedometers...**<br/>
 <img src="images/SpeedView.gif" width="32%" />
 <img src="images/AwesomeSpeedometer.gif" width="32%" />
@@ -29,7 +23,7 @@ Library Size just ~ 47 KB.
 
 # Download
 
-this library required **jcenter** and **kotlin version 1.3.61** or above, _you still can use it in java projects_.
+this library required **jcenter** and **kotlin version 1.3.61** 
 
 first add kotlin to your project, in `build.gradle` **project level**:
 
@@ -239,29 +233,3 @@ and also you can see **Advanced Usage** in [Usage - Wiki](https://github.com/ana
 * add fuel gauge component.
 * build new custom speedometer.
 
-your `pull request` is always Welcome, please review the **[rules of contribution](https://github.com/anastr/SpeedView/blob/master/CONTRIBUTING.md)** to make useful change.
-
-## Coming Soon ...
-I will try to draw this Speedometer.
-if you have any idea, image, template please **open new issue** and give me the image , and i well try to add it to the Library.
-
-<img src="/images/new2.png" width="30%" /> <img src="/images/new3.png" width="30%" />
-
-# LICENSE
-```
-
-Copyright 2016 Anas Altair
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-```
