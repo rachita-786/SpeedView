@@ -6,15 +6,6 @@
 [![Bintray](https://img.shields.io/bintray/v/anastr/maven/SpeedView.svg?color=green)](https://bintray.com/anastr/maven/SpeedView)
 [![Twitter](https://img.shields.io/badge/Twitter-@AnasAltairDent-blue.svg?style=flat)](http://twitter.com/AnasAltairDent)
 
-**Speedometers...**<br/>
-<img src="images/SpeedView.gif" width="32%" />
-<img src="images/AwesomeSpeedometer.gif" width="32%" />
-<img src="images/PointerSpeedometer.gif" width="32%" />
-
-**Gauges...**<br/>
-<img src="images/ProgressiveGauge.gif" width="49%" />
-<img src="images/ImageLinearGauge.gif" width="49%" />
-
 # Download
 
 this library required **jcenter** and **kotlin version 1.3.61** 
